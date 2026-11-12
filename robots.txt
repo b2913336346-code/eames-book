@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b2913336346-code.github.io/eames-book/sitemap-index.xml
